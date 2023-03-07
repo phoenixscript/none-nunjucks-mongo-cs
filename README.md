@@ -12,7 +12,6 @@ This is a simple Node.js application that uses the Nunjucks template engine to r
 ## Dependencies
 The app uses the following dependencies:
 Express - A minimal and flexible Node.js web application framework.
-Express-validator - A class validation framework
 Bootstrap - A CSS framework
 Nunjucks - A powerful template engine for JavaScript.
 Mocha - A feature-rich JavaScript test framework.
